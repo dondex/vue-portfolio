@@ -34,7 +34,7 @@
         { 
           image: require("../assets/portfolio/vue-portfolio.png"),
           title: 'Vuejs Portfolio',
-          link: '',
+          link: 'https://github.com/dondex/vue-portfolio',
           category: [
             {
             'id': 1,
